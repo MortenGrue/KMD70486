@@ -3,3 +3,6 @@
 ################################################################################
 
 /MVCDemos1/MVCDemos1/bin/roslyn
+/MVCDemos1/MVCDemos1/bin
+/MVCDemos1/MVCDemos1/obj/Debug/MVCDemos1.dll
+/MVCDemos1/MVCDemos1/obj/Debug/MVCDemos1.pdb
